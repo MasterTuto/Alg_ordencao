@@ -4,9 +4,9 @@ Esse programa apresenta um comparativo do tempo de execução dos métodos Bubbl
 
 Nos testes, são ordenados números interios de 0 até 1000000
 
-O programa deve ser executado com 500, 1.000 e 5.000 números. Com cada uma das três quantidades de números, deve-se testar o vetor com números aleatórios, ordenados em ordem crescente e ordenados em ordem decrescente.
+O programa é executado com 500, 1.000 e 5.000 números. Com cada uma das três quantidades de números, deve-se testar o vetor com números aleatórios, ordenados em ordem crescente e ordenados em ordem decrescente.
 
-Deverão ser realizados 9 testes, esses testes representam o melhor caso, pior caso e caso médio de todos os algoritmos. Armazene os resultados em uma tabela para facilitar a visualização.
+
 
 """
 import random
